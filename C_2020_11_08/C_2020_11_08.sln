@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C_2020_11_08", "C_2020_11_08\C_2020_11_08.vcxproj", "{B7C89633-F123-41E1-B722-B88BC2E3C734}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strcpy", "strcpy\strcpy.vcxproj", "{BC046AF4-EDCF-4ED4-94C5-842F980F3EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C89633-F123-41E1-B722-B88BC2E3C734}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B7C89633-F123-41E1-B722-B88BC2E3C734}.Debug|Win32.Build.0 = Debug|Win32
+		{B7C89633-F123-41E1-B722-B88BC2E3C734}.Release|Win32.ActiveCfg = Release|Win32
+		{B7C89633-F123-41E1-B722-B88BC2E3C734}.Release|Win32.Build.0 = Release|Win32
+		{BC046AF4-EDCF-4ED4-94C5-842F980F3EEE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC046AF4-EDCF-4ED4-94C5-842F980F3EEE}.Debug|Win32.Build.0 = Debug|Win32
+		{BC046AF4-EDCF-4ED4-94C5-842F980F3EEE}.Release|Win32.ActiveCfg = Release|Win32
+		{BC046AF4-EDCF-4ED4-94C5-842F980F3EEE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
